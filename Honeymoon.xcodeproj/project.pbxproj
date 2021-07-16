@@ -13,6 +13,7 @@
 		1D5467E3269E9DB900054510 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D5467E2269E9DB900054510 /* ContentView.swift */; };
 		1D5467E5269E9DBC00054510 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D5467E4269E9DBC00054510 /* Assets.xcassets */; };
 		1D5467E8269E9DBC00054510 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D5467E7269E9DBC00054510 /* Preview Assets.xcassets */; };
+		1DE9AA9D26A05FCD004F307E /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DE9AA9C26A05FCD004F307E /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1D5467E4269E9DBC00054510 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D5467E7269E9DBC00054510 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1D5467E9269E9DBC00054510 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1DE9AA9C26A05FCD004F307E /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				1D5467E4269E9DBC00054510 /* Assets.xcassets */,
 				1D5467E9269E9DBC00054510 /* Info.plist */,
 				1D5467E6269E9DBC00054510 /* Preview Content */,
+				1DE9AA9C26A05FCD004F307E /* Launch Screen.storyboard */,
 			);
 			path = Honeymoon;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				1D524B3C269FF33F0032364A /* sound-rise.mp3 in Resources */,
 				1D524B3D269FF33F0032364A /* sound-click.mp3 in Resources */,
 				1D5467E8269E9DBC00054510 /* Preview Assets.xcassets in Resources */,
+				1DE9AA9D26A05FCD004F307E /* Launch Screen.storyboard in Resources */,
 				1D5467E5269E9DBC00054510 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
